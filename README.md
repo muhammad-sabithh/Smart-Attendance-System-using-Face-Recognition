@@ -73,12 +73,6 @@ Smart-Attendance-System/
 
 The **Smart Attendance System** leverages AI-powered face recognition to provide a **secure, efficient, and contactless** solution for attendance tracking. Ideal for schools, colleges, offices, and organizations, it streamlines attendance management while offering robust reporting and visualization capabilities.
 
----
-
-## 👨‍💻 Developed By
-
-- **Sabith**
-- **Arsal**
 
 ---
 
